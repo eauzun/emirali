@@ -1,0 +1,311 @@
+{
+  "syncedAt": "2026-10-03",
+  "repositories": [
+    {
+      "name": "push_swap",
+      "url": "https://github.com/eauzun/push_swap",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 2,
+      "homepage": ""
+    },
+    {
+      "name": "quark",
+      "url": "https://github.com/eauzun/quark",
+      "description": "",
+      "language": "TypeScript",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "eauzun",
+      "url": "https://github.com/eauzun/eauzun",
+      "description": "",
+      "language": "—",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Jetson_Cam_Driver_Dev",
+      "url": "https://github.com/eauzun/Jetson_Cam_Driver_Dev",
+      "description": "Jetson_Cam_Driver_dev",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "CPP-Modules",
+      "url": "https://github.com/eauzun/CPP-Modules",
+      "description": "",
+      "language": "C++",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "suitudy",
+      "url": "https://github.com/eauzun/suitudy",
+      "description": "",
+      "language": "TypeScript",
+      "fork": false,
+      "stars": 3,
+      "homepage": ""
+    },
+    {
+      "name": "Inception",
+      "url": "https://github.com/eauzun/Inception",
+      "description": "",
+      "language": "—",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "scheder",
+      "url": "https://github.com/eauzun/scheder",
+      "description": "",
+      "language": "TypeScript",
+      "fork": false,
+      "stars": 0,
+      "homepage": "https://scheder-pi.vercel.app"
+    },
+    {
+      "name": "NetPractice",
+      "url": "https://github.com/eauzun/NetPractice",
+      "description": "",
+      "language": "—",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Cub3D",
+      "url": "https://github.com/eauzun/Cub3D",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "21Challenge",
+      "url": "https://github.com/eauzun/21Challenge",
+      "description": "A simple, beginner-friendly guide to learning Sui Move programming in 21 days.",
+      "language": "Move",
+      "fork": true,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "cub3d_backup",
+      "url": "https://github.com/eauzun/cub3d_backup",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "cachesim",
+      "url": "https://github.com/eauzun/cachesim",
+      "description": "",
+      "language": "C++",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "xv6-getlinecount",
+      "url": "https://github.com/eauzun/xv6-getlinecount",
+      "description": "",
+      "language": "—",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Emirali-Uzun-Challenge",
+      "url": "https://github.com/eauzun/Emirali-Uzun-Challenge",
+      "description": "Template Repo for Sui Community Projects",
+      "language": "TypeScript",
+      "fork": true,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Suitudy.",
+      "url": "https://github.com/eauzun/Suitudy.",
+      "description": "",
+      "language": "TypeScript",
+      "fork": false,
+      "stars": 0,
+      "homepage": "https://suitudyy.vercel.app"
+    },
+    {
+      "name": "move",
+      "url": "https://github.com/eauzun/move",
+      "description": "",
+      "language": "Move",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Mini-LLM-API-ntergration",
+      "url": "https://github.com/eauzun/Mini-LLM-API-ntergration",
+      "description": "",
+      "language": "Rust",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "my_nix_configuration.nix",
+      "url": "https://github.com/eauzun/my_nix_configuration.nix",
+      "description": "my configuration.nix files for my nix configuration",
+      "language": "Nix",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "MiniShell",
+      "url": "https://github.com/eauzun/MiniShell",
+      "description": "bash-like custom shell",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Sui-Workshop",
+      "url": "https://github.com/eauzun/Sui-Workshop",
+      "description": "Sui Workshop. Blockchain based eduıcation",
+      "language": "—",
+      "fork": true,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "42_EXAM",
+      "url": "https://github.com/eauzun/42_EXAM",
+      "description": "",
+      "language": "Shell",
+      "fork": false,
+      "stars": 1,
+      "homepage": ""
+    },
+    {
+      "name": "Philosophers",
+      "url": "https://github.com/eauzun/Philosophers",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "GoNeMap",
+      "url": "https://github.com/eauzun/GoNeMap",
+      "description": "Network Mapper written with go",
+      "language": "Go",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "my_libc",
+      "url": "https://github.com/eauzun/my_libc",
+      "description": "My Own Customized C Library",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Minitalk",
+      "url": "https://github.com/eauzun/Minitalk",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "microgame",
+      "url": "https://github.com/eauzun/microgame",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "get_next_line",
+      "url": "https://github.com/eauzun/get_next_line",
+      "description": "",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "my_printf",
+      "url": "https://github.com/eauzun/my_printf",
+      "description": "my_own printf function",
+      "language": "C",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "my_micro_nmap",
+      "url": "https://github.com/eauzun/my_micro_nmap",
+      "description": "My Micro Network Mapper project written by Shell",
+      "language": "Shell",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "macinux-keybind",
+      "url": "https://github.com/eauzun/macinux-keybind",
+      "description": "I made this ShellScript for Linux-Modified Mac Keyboarded Devices. This will bind your keys as Mac keyboard.",
+      "language": "Shell",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "euclidianDistance",
+      "url": "https://github.com/eauzun/euclidianDistance",
+      "description": "",
+      "language": "Python",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "Ecole-42-C-Piscine",
+      "url": "https://github.com/eauzun/Ecole-42-C-Piscine",
+      "description": "",
+      "language": "Shell",
+      "fork": false,
+      "stars": 0,
+      "homepage": ""
+    },
+    {
+      "name": "models",
+      "url": "https://github.com/eauzun/models",
+      "description": "Models and examples built with TensorFlow",
+      "language": "—",
+      "fork": true,
+      "stars": 0,
+      "homepage": ""
+    }
+  ]
+}
